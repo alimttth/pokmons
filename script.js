@@ -8,6 +8,7 @@ async function fetchPokmons(number) {
     createPokmon(pok)
   }
 }
+//ali motahari
 
 function createPokmon(pokemon) {
   const card = document.createElement("div");
